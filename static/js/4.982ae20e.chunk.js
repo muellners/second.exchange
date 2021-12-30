@@ -1,2 +1,0 @@
-(this["webpackJsonpsecond.exchange"]=this["webpackJsonpsecond.exchange"]||[]).push([[4],{1620:function(n,c){},1622:function(n,c){},1632:function(n,c){},1636:function(n,c){}}]);
-//# sourceMappingURL=4.982ae20e.chunk.js.map
