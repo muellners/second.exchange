@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.cbf29417.chunk.css",
-    "main.js": "./static/js/main.65a40b95.chunk.js",
-    "main.js.map": "./static/js/main.65a40b95.chunk.js.map",
+    "main.css": "./static/css/main.69341d40.chunk.css",
+    "main.js": "./static/js/main.7f1befe3.chunk.js",
+    "main.js.map": "./static/js/main.7f1befe3.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.5b7b0c3d.js",
     "runtime-main.js.map": "./static/js/runtime-main.5b7b0c3d.js.map",
-    "static/css/2.f4c56af9.chunk.css": "./static/css/2.f4c56af9.chunk.css",
-    "static/js/2.8209c549.chunk.js": "./static/js/2.8209c549.chunk.js",
-    "static/js/2.8209c549.chunk.js.map": "./static/js/2.8209c549.chunk.js.map",
+    "static/css/2.2e35c764.chunk.css": "./static/css/2.2e35c764.chunk.css",
+    "static/js/2.6d5075e9.chunk.js": "./static/js/2.6d5075e9.chunk.js",
+    "static/js/2.6d5075e9.chunk.js.map": "./static/js/2.6d5075e9.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/2.f4c56af9.chunk.css.map": "./static/css/2.f4c56af9.chunk.css.map",
-    "static/css/main.cbf29417.chunk.css.map": "./static/css/main.cbf29417.chunk.css.map",
-    "static/js/2.8209c549.chunk.js.LICENSE.txt": "./static/js/2.8209c549.chunk.js.LICENSE.txt",
+    "static/css/2.2e35c764.chunk.css.map": "./static/css/2.2e35c764.chunk.css.map",
+    "static/css/main.69341d40.chunk.css.map": "./static/css/main.69341d40.chunk.css.map",
+    "static/js/2.6d5075e9.chunk.js.LICENSE.txt": "./static/js/2.6d5075e9.chunk.js.LICENSE.txt",
     "static/media/App.scss": "./static/media/Nunito-SemiBold.6a5a212c.ttf",
     "static/media/blogging.97d26d94.png": "./static/media/blogging.97d26d94.png",
     "static/media/canvas.94d95a35.jpg": "./static/media/canvas.94d95a35.jpg",
     "static/media/create-blog.8c7f4317.svg": "./static/media/create-blog.8c7f4317.svg",
     "static/media/create-canvas.0b227bde.svg": "./static/media/create-canvas.0b227bde.svg",
-    "static/media/metamask.4368e45a.svg": "./static/media/metamask.4368e45a.svg",
     "static/media/nft-symbol.a5f19ebc.svg": "./static/media/nft-symbol.a5f19ebc.svg",
     "static/media/nft.74f2c6cd.jpg": "./static/media/nft.74f2c6cd.jpg",
     "static/media/publish-nft.3477f253.svg": "./static/media/publish-nft.3477f253.svg",
@@ -27,9 +26,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5b7b0c3d.js",
-    "static/css/2.f4c56af9.chunk.css",
-    "static/js/2.8209c549.chunk.js",
-    "static/css/main.cbf29417.chunk.css",
-    "static/js/main.65a40b95.chunk.js"
+    "static/css/2.2e35c764.chunk.css",
+    "static/js/2.6d5075e9.chunk.js",
+    "static/css/main.69341d40.chunk.css",
+    "static/js/main.7f1befe3.chunk.js"
   ]
 }
